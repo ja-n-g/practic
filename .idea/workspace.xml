@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83433169-69cb-4383-ae3b-7ab0c6c674c7" name="Changes" comment="to string &#10;узнать про колекции и определиться какой вариант хранения данных использовать">
+    <list default="true" id="83433169-69cb-4383-ae3b-7ab0c6c674c7" name="Changes" comment="to string &#10;узнать про колекции и определиться какой вариант хранения данных &#10; запись и чтения при помощи XML**">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Bus.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681731651382</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="to string &#10;узнать про колекции и определиться какой вариант хранения данных &#10; запись и чтения при помощи XML**">
+      <created>1681742854481</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681742854481</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,7 +206,8 @@
     <MESSAGE value="принято надо переопредилить метод to-string" />
     <MESSAGE value="принято надо переопредилить метод to-string&#10;узнать про колекции и определиться какой вариант хранения данных использовать" />
     <MESSAGE value="to string &#10;узнать про колекции и определиться какой вариант хранения данных использовать" />
-    <option name="LAST_COMMIT_MESSAGE" value="to string &#10;узнать про колекции и определиться какой вариант хранения данных использовать" />
+    <MESSAGE value="to string &#10;узнать про колекции и определиться какой вариант хранения данных &#10; запись и чтения при помощи XML**" />
+    <option name="LAST_COMMIT_MESSAGE" value="to string &#10;узнать про колекции и определиться какой вариант хранения данных &#10; запись и чтения при помощи XML**" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

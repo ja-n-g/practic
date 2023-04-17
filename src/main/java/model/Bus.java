@@ -102,7 +102,7 @@ package model;
 
         public String toString()
         {
-            return govNumber + " " + nameOfBus + " " + ageOfcreate+ " "  + numberOfRoute+ " " + sitPassangers+ " " + capacity+ " " + currentAmount;
+            return "Номер автобуса" + govNumber + " " + "НАзвание автобуса" + nameOfBus + " " + ageOfcreate+ " "  + numberOfRoute+ " " + sitPassangers+ " " + capacity+ " " + currentAmount;
         }
     }
     
